@@ -12,5 +12,6 @@ public interface UserRepository {
     User getByEmail (String email);
     User update (User user);
     User delete (int id);
+    User getByMealId(int id);
 
 }

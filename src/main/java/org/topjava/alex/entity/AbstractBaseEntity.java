@@ -1,6 +1,8 @@
 package org.topjava.alex.entity;
 
 public class AbstractBaseEntity {
+    public static final int START_ID = 100;
+
     protected Integer id;
 
     protected AbstractBaseEntity(Integer id) {

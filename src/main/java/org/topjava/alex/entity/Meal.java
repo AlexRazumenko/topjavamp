@@ -1,6 +1,5 @@
 package org.topjava.alex.entity;
 
-import org.topjava.alex.entity.AbstractBaseEntity;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
